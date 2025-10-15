@@ -11,9 +11,9 @@ const navigation = [
 ]
 
 const socialLinks = [
-  { name: 'Facebook', href: 'https://www.facebook.com/profile.php?id=100085893777747', icon: Facebook },
-  { name: 'Instagram', href: 'https://www.instagram.com/winner_holistic/', icon: Instagram },
-  { name: 'LinkedIn', href: 'https://www.linkedin.com/company/winnerholisticconsultants/', icon: Linkedin },
+  { name: 'Facebook', href: 'https://www.facebook.com/', icon: Facebook },
+  { name: 'Instagram', href: 'https://www.instagram.com/', icon: Instagram },
+  { name: 'LinkedIn', href: 'https://www.linkedin.com/', icon: Linkedin },
 ]
 
 export function Footer() {
